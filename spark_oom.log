@@ -1,0 +1,10 @@
+2026-08-25 10:31:22 ERROR TaskSetManager:
+Task 42 in stage 18.0 failed 4 times.
+
+org.apache.spark.memory.SparkOutOfMemoryError:
+Unable to acquire 64.0 MiB of memory
+
+ExecutorLostFailure:
+Container killed by YARN for exceeding memory limits.
+
+Container memory used: 16.2 GB of 16 GB
